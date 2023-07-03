@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/bb4269b2-fdb0-49df-9811-62222307039b/resourceGroups/SandboxRG/providers/Microsoft.Web/sites/uniquewtest72",
+    "appService.deploySubpath": "."
+}
